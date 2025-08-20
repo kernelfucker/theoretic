@@ -11,4 +11,4 @@ $ ./theoretic
 have fun :)
 
 # example
-<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/8f957f14-abcb-46e3-9112-66196be41540" />
+<img width="730" height="600" alt="image" src="https://github.com/user-attachments/assets/97f43793-0a11-4b5a-8cbe-6bb99ee774f6" />
