@@ -303,7 +303,7 @@ void frame(){
 			{"1998.", "1984."}},
 		{"its evening and its getting dark. what would you like to do?",
 			{"find the man who left.", "look at the clock before finding the man who left."}},
-		{"you saw the man runing away at the end of the stairs, but you are too tired to run.",
+		{"you saw the man running away at the end of the stairs, but you are too tired to run.",
 			{"return to the room.", "return to the room but think about it."}},
 		{"you lighted a cigarette and still think, what do you want to do now?",
 			{"kill yourself because of nothingness.", "kill yourself by burning yourself."}}
